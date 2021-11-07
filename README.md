@@ -1,0 +1,1 @@
+# Character_printing_starpattern
